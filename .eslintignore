@@ -1,0 +1,6 @@
+.husky/*
+build/**
+config/**
+node_modules/*
+public/**
+scripts/**
